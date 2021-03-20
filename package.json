@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/ArlonTuazon/deep-thoughts/issues"
   },
-  "homepage": "https://github.com/ArlonTuazon/deep-thoughts#readme"
+  "homepage": "https://github.com/ArlonTuazon/deep-thoughts#readme",
+  "dependencies": {
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0"
+  }
 }
